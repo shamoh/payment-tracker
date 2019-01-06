@@ -1,0 +1,8 @@
+/*.pdf
+
+# GRADLE
+.gradle/
+build/
+
+# IDEA
+.idea/
