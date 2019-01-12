@@ -16,6 +16,11 @@ dependencies {
     testImplementation("com.github.stefanbirkner:system-rules:1.19.0")
 }
 
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
 application {
     mainClassName = "cz.kramolis.exercises.paymenttracker.Main"
 

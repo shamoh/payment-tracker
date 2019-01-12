@@ -6,3 +6,4 @@ build/
 
 # IDEA
 .idea/
+*.iml
